@@ -108,12 +108,12 @@ export const projects = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: getImagePath("/git.svg"),
     link: "https://github.com/ankitkumar024",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: getImagePath("/link.svg"),
     link: "www.linkedin.com/in/ankit-kumar-550b06229" ,
   },
 ];
